@@ -13,3 +13,8 @@ Selain itu, pemain juga dapat menghias dan mempercantik kos-kosan mereka, dengan
 Game Kos Kosan Life akan menampilkan grafis yang menarik dan detail, dengan lingkungan yang bisa dieksplorasi dan interaksi yang realistis antara karakter-karakter dalam kos-kosan. Selain itu, game ini juga akan menawarkan cerita yang menarik dan beragam, dengan pilihan-pilihan yang dapat mempengaruhi alur cerita dan akhir permainan.
 
 Kos Kosan Life adalah sebuah game yang menggabungkan elemen simulasi kehidupan sehari-hari, manajemen, dan cerita yang menarik, yang akan memberikan pengalaman bermain yang seru dan menantang bagi pemain untuk menjalani kehidupan di dunia virtual kos-kosan.
+
+Team :
+- Bima Ryan A
+- Farhan
+- Pandu
