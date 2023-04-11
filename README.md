@@ -1,4 +1,4 @@
-<h2>Project Kos Kosan Life</h2>
+<center><h2>Project Kos Kosan Life</h2></center>
 <br>
 <p>Description: </p>
 
